@@ -34,3 +34,4 @@ tmp
 *.db
 .idea/**
 *.iml
+*.class
