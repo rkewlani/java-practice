@@ -32,3 +32,5 @@ tmp
 .DS_Store
 .idea
 *.db
+.idea/**
+*.iml
